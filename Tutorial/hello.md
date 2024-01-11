@@ -9,7 +9,8 @@ int main()
     return 0;
 }
 ```
-The Output will be print in Console as follows `Hello World`
+The Output will be print in Console as follows
+>`Hello World`
 ## Hello World using Strings
 You can also create a string to store `"Hello World"`.
 The below example helps us understand how to print Hello World in C using string
