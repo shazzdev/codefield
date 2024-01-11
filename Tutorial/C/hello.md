@@ -20,7 +20,7 @@ The below example helps us understand how to print Hello World in C using string
 int main()
 {
     string hello="Hello World"
-    printf("Hello world");
+    printf("%s",hello);
     return 0;
 }
 ```
