@@ -1,1 +1,25 @@
-This is a tutorial for a basic program to print Hello World in C
+# Hello World
+## Simple Hello World Program
+This tutorial will help you to create different methods to print Hello World in C
+```
+#include <stdio.h>
+int main()
+{
+    printf("Hello world");
+    return 0;
+}
+```
+The Output will be print as `Hello World` on the console.
+## Hello World using Strings
+You can also create a string to store `"Hello World"`.
+The below example helps us understand how to print Hello World in C using string
+```
+#include <stdio.h>
+#include <string>
+int main()
+{
+    string hello="Hello World"
+    printf("Hello world");
+    return 0;
+}
+```
