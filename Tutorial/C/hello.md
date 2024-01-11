@@ -17,7 +17,14 @@ The Output will be print in Console as follows
 
 You can also print Hello world using an array of characters
 ```
-
+#include <stdio.h>
+int main()
+{
+    char hello[12]="Hello World";
+    printf("%s",Hello World);
+    return 0;
+}
+```
 ## Hello World using Strings
 
 You can also create a string to store `"Hello World"`.
